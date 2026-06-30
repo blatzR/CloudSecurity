@@ -7,4 +7,4 @@ We'll be using, AWS **Identity and Access Management** (IAM) service to control 
 We'll launch an EC2 instance, then control who has access to it by creating some IAM policies and user groups. 
 
 The architecture looks something like this..
-<img src="./architecture.png" alt="Architecture" width="300" height="200">
+<img src=".Secure-AWS-IAM/architecture.png" alt="Architecture" width="300" height="200">
